@@ -1,8 +1,15 @@
-# React + Vite
+<img width="960" alt="2024-06-28" src="https://github.com/AmanDubey001/Solvative_Assignment_Frontend/assets/98492153/7144adde-2367-4bec-af0b-abc9e20aa513">
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Assignment Link : https://github.com/rucha-s/stopwatch-app
 
-Currently, two official plugins are available:
+Tech Stack used:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+React + Vite
+
+Commands:
+
+npm i vite
+
+npm run dev
+
+Thanks for Sending this wonderful Problem I have solved it. Please Check the Deployed Url.
